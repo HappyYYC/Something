@@ -1,6 +1,6 @@
 # Something
 
-使用此项目的Issues作为博客记录
+使用此项目的 Issues 作为博客记录
 
 -- -
 
